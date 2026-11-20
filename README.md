@@ -1,2 +1,2 @@
 # frametide-releases
-Official Frametide release github
+Official [Frametide](https://frametide.de/) release github
